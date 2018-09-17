@@ -84,11 +84,12 @@ If you are using `Jupyter Notebook`, you can do bash commands like git by execut
 
 2. Fork this repository and sending a pull request after adding your name and url to your repos when you change this file.
 
+3. Set it up for the next person.
+
 ## I have completed my gitimmersion:
 - Hansel Wei [gitimmersion](https://github.com/darkmastermindz/gitimmersion)
 - Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
-- Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
+
 ## I have completed my 
 - Hansel Wei [Python Practice](https://github.com/darkmastermindz/PythonPractice)
-- Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
 - Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
