@@ -84,7 +84,7 @@ for x in range(100):
 	t.left(90)
 ```
 
-Aside – *The* `origin` * part pushes it remotes to a remote repository, “the cloud”, in our case it’s GitHub.* *Without the* `origin`*, it doesn’t push to GitHub but only locally.* *If you are using* `Jupyter Notebook`, *you can do bash commands like git by executing something like* `% git add SquareSpiral.py` *by itself and then deleting it after executing it.*
+Aside – *this* `for loop` *is an for each loop and reads as "for each x times counting from the range of 0 to 99" move turtle t forward by x then turn the turtle left 90 degrees.*
 
 In Terminal / Command Prompt type the following
 - `git add SquareSpiral.py`
