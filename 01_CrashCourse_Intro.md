@@ -109,6 +109,10 @@ In Terminal / Command Prompt type the following
 - Hansel Wei [gitimmersion](https://github.com/darkmastermindz/gitimmersion)
 - Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
 
-## I have completed my 
+## I have started my PythonPractice:
 - Hansel Wei [Python Practice](https://github.com/darkmastermindz/PythonPractice)
 - Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
+
+## I have followed along and completed my PythonCS50_2017
+- Hansel Wei [PythonCS50_2017](https://github.com/darkmastermindz/PythonCS50_2017)
+- Your Name [PythonCS50_2017](https://github.com/{yourusername}/PythonCS50_2017)
