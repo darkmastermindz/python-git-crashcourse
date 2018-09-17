@@ -64,7 +64,7 @@ t = turtle.Pen()
 cd gitprojects/PythonPractice 
 ```
 
-	- Alternatively, you can find the exact location of a file or folder on Windows by right clicking on it and clicking properties or by simply right clicking on the folder and click `Git Bash Here`. For all other operating systems, simply just drag and drop the file onto the terminal after typing `cd ` and the folder location should automatically be generated.
+Aside - *Alternatively, you can find the exact location of a file or folder on Windows by right clicking on it and clicking properties or by simply right clicking on the folder and click* `Git Bash Here`*. For all other operating systems, simply just drag and drop the file onto the terminal after typing* `cd ` *and the folder location should automatically be generated.*
 
 In Terminal / Command Prompt type the following
 - `git add SquareSpiral.py`
