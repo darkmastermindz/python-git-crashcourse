@@ -53,7 +53,7 @@ import turtle
 t = turtle.Pen() 
 ```
 
-- So far, we’ve created the `SquareSpiral1.py` file,  and imported the turtle `library`.  A `library`  in python is a collection of functions and methods that allows you to perform lots of actions without writing your own code.  `turtle` is a built in library in python which means you don’t have to download and install it. See: [24.5. turtle — Turtle graphics for Tk — Python 2.7.15 documentation](https://docs.python.org/2/library/turtle.html)
+- So far, we’ve created the `SquareSpiral1.py` file,  and imported the turtle `library`.  A `library`  in python is a collection of functions and methods that allows you to perform lots of actions without writing your own code.  `turtle` is a built in library in python which means you don’t have to download and install it. See: [25.1. turtle — Turtle graphics — Python 3.7.0 documentation](https://docs.python.org/3/library/turtle.html)
 
 2. We now need to keep track of changes in your code “save it” with git.
 
@@ -70,9 +70,28 @@ In Terminal / Command Prompt type the following
 - `git commit -m "Created my first turtle"`
 - `git push origin master` 
 
-*The* `origin` * part pushes it remotes to a remote repository, “the cloud”, in our case it’s GitHub.* Without the `origin`, it doesn’t push to GitHub but only locally.* 
+Aside – *The* `origin` * part pushes it remotes to a remote repository, “the cloud”, in our case it’s GitHub.* *Without the* `origin`*, it doesn’t push to GitHub but only locally.* *If you are using* `Jupyter Notebook`, *you can do bash commands like git by executing something like* `% git add SquareSpiral.py` *by itself and then deleting it after executing it.*
 
-If you are using `Jupyter Notebook`, you can do bash commands like git by executing something like `% git add SquareSpiral.py` by itself and then deleting it after executing it.
+3. Finish the code:
+```python
+# SquareSpiral1.py - Draws a square spiral
+import turtle
+
+t = turtle.Pen() 
+
+for x in range(100):
+	t.forward(x)
+	t.left(90)
+```
+
+Aside – *The* `origin` * part pushes it remotes to a remote repository, “the cloud”, in our case it’s GitHub.* *Without the* `origin`*, it doesn’t push to GitHub but only locally.* *If you are using* `Jupyter Notebook`, *you can do bash commands like git by executing something like* `% git add SquareSpiral.py` *by itself and then deleting it after executing it.*
+
+In Terminal / Command Prompt type the following
+- `git add SquareSpiral.py`
+- `git commit -m "Made my turtle dance in a spiral 100 times"`
+- `git push origin master` 
+
+4. YAY! You successfully made your commits and uploaded your first piece python code to GitHub as a git master!
 
 ## Bonus Points - Watch Intro to Python from Harvard’s CS50 class
 - https://www.youtube.com/watch?v=n_8zxTH7SvA
