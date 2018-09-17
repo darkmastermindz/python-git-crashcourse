@@ -103,6 +103,6 @@ In Terminal / Command Prompt type the following
 
 1. Read about [The anatomy of a perfect pull request – Hugo Dias – Medium](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 
-2. Fork this repository and send a pull request after adding your name and url to your repos when you change the *Leaderboard* files.
+2. Fork this repository and send a pull request and an issue after adding your name and url to your repos when you change the *Leaderboard* files on your forked repo.
 
-3. Set it up for the next person.
+3. Make sure to set it up for the next person.
