@@ -94,9 +94,10 @@ In Terminal / Command Prompt type the following
 
 4. YAY! You successfully made your commits and uploaded your first piece python code to GitHub as a git master!
 
-## Bonus Points - Watch Intro to Python from Harvard’s CS50 class
-- https://www.youtube.com/watch?v=n_8zxTH7SvA
-- https://www.youtube.com/watch?v=icOod04jYww
+## Bonus Points - Watch Intro to Python from Harvard’s CS50 class and follow along.
+1. Make a folder in your `PythonPractice` called `PythonCS50_2017` and follow along with the examples in that folder.
+- [CS50 2017 - Lecture 8 - Python - YouTube](https://www.youtube.com/watch?v=n_8zxTH7SvA)
+- [CS50 2017 - Lecture 9 - Python, continued - YouTube](https://www.youtube.com/watch?v=icOod04jYww)
 
 ## Share with me links to your GitHub Repositories 
 
@@ -115,5 +116,5 @@ In Terminal / Command Prompt type the following
 - Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
 
 ## I have followed along and completed my PythonCS50_2017
-- Hansel Wei [PythonCS50_2017](https://github.com/darkmastermindz/PythonCS50_2017)
-- Your Name [PythonCS50_2017](https://github.com/{yourusername}/PythonCS50_2017)
+- Hansel Wei [PythonCS50_2017](https://github.com/darkmastermindz/PythonPractice/PythonCS50_2017)
+- Your Name [PythonCS50_2017](https://github.com/{yourusername}/PythonPractice/PythonCS50_2017)
