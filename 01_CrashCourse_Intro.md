@@ -103,18 +103,6 @@ In Terminal / Command Prompt type the following
 
 1. Read about [The anatomy of a perfect pull request – Hugo Dias – Medium](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 
-2. Fork this repository and sending a pull request after adding your name and url to your repos when you change this file.
+2. Fork this repository and sending a pull request after adding your name and url to your repos when you change the *Leaderboard* files.
 
 3. Set it up for the next person.
-
-## Leaderboard - I have completed my gitimmersion:
-000. Hansel Wei [gitimmersion](https://github.com/darkmastermindz/gitimmersion)
-001. Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
-
-## Leaderboard - I have started my PythonPractice:
-000. Hansel Wei [Python Practice](https://github.com/darkmastermindz/PythonPractice)
-001. Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
-
-## Leaderboard - I have followed along and completed my PythonCS50_2017
-000. Hansel Wei [PythonCS50_2017](https://github.com/darkmastermindz/PythonPractice/PythonCS50_2017)
-001. Your Name [PythonCS50_2017](https://github.com/{yourusername}/PythonPractice/PythonCS50_2017)
