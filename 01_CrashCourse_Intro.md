@@ -1,4 +1,5 @@
-Understanding Source Control (Git & Github)
+# Intro - Crash Course to Awesome Programming Practices
+## Understanding Source Control (Git & Github)
 1. `Git` is a form of `source control`, a way to keep track of your changes in your code and help you manage to collaborate with others while programming. It's kinda like how Google Docs keeps track of everyone's history of what changes everyone has made. It’s incredibly useful because it becomes your personal portfolio and is used everywhere in the Computer Science world.
 
 2. Github is like Google Drive but for code. It’s a service that stores `repositories`  or `repo` for short which is basically a “home” folder for a project.  The home folder for any project is also called the `root directory`. 
