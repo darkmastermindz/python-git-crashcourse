@@ -2,7 +2,7 @@
 My Python crash course with git for people.
 
 ## Part 1 - Intro to Python w/ Turtles & Source Control.
-- [01_CrashCourse_Intro.md](https://github.com/darkmastermindz/python-git-course/blob/master/01_CrashCourse_Intro.md) - - Intro to Source Control, Python w/ Turtles, & Pull Requests.
+- [01_CrashCourse_Intro.md](https://github.com/darkmastermindz/python-git-course/blob/master/01_CrashCourse_Intro.md) - Intro to Source Control, Python w/ Turtles, & Pull Requests.
 -
 -
 -
