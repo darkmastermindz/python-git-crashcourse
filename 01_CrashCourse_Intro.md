@@ -15,7 +15,8 @@ https://www.youtube.com/watch?v=MJUJ4wbFm_A
 3. Try the `gitimmersion labs`  in that folder *(It uses the Ruby language, but git can be used with any piece of code or text).*
 4. Link: http://gitimmersion.com/index.html *(You will need to setup git by downloading and installing it if you are on Windows. Otherwise, git should be already installed)*
 
-## Getting Started with Python using Source Control - Teach Your Kids To Code by Bryson Payne
+## Getting Started with Python using Source Control 
+### Python code from [Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming eBook: Bryson Payne: Kindle Store](https://www.amazon.com/Teach-Your-Kids-Code-Parent-Friendly-ebook/dp/B00WJ049XI)
 1. Make a http://github.com/ account if you don’t have one, this becomes your portfolio basically. 
 2. Go on your GitHub and make a Repo called `PythonPractice`
 3. Create a folder called gitprojects (I recommend using your home user account folder).
