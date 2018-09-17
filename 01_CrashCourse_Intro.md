@@ -1,5 +1,5 @@
 # Intro - Crash Course to Awesome Programming Practices
-## Understanding Source Control (Git & Github)
+## [100 Pts] - Understanding Source Control (Git & Github)
 1. `Git` is a form of `source control`, a way to keep track of your changes in your code and help you manage to collaborate with others while programming. It's kinda like how Google Docs keeps track of everyone's history of what changes everyone has made. It’s incredibly useful because it becomes your personal portfolio and is used everywhere in the Computer Science world.
 
 2. Github is like Google Drive but for code. It’s a service that stores `repositories`  or `repo` for short which is basically a “home” folder for a project.  The home folder for any project is also called the `root directory`. 
@@ -9,13 +9,13 @@
 4. Here is more info on Git in video form that goes through a simple tutorial and the process of how to use it:
 https://www.youtube.com/watch?v=MJUJ4wbFm_A
 
-## Getting to Know Source Control for Yourself (Gitimmersion Lab & Github)
+## [100 Pts x Labs Multiplier (5300 Possible)] - Getting to Know Source Control for Yourself (Gitimmersion Lab & Github)
 1. Make a http://github.com/ account if you don’t already have one, this becomes your portfolio basically. 
 2. Make a repo called `gitimmersion` and clone it and follow the instructions for the labs for git.
 3. Try the `gitimmersion labs`  in that folder *(It uses the Ruby language, but git can be used with any piece of code or text).*
 4. Link: http://gitimmersion.com/index.html *(You will need to setup git by downloading and installing it if you are on Windows. Otherwise, git should be already installed)*
 
-## Getting Started with Python using Source Control 
+## [300 Pts] - Getting Started with Python using Source Control 
 ### Python code from [Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming: Bryson Payne](https://www.amazon.com/Teach-Your-Kids-Code-Parent-Friendly/dp/1593276141/ref=mt_paperback)
 1. Make a http://github.com/ account if you don’t have one, this becomes your portfolio basically. 
 2. Go on your GitHub and make a Repo called `PythonPractice`
@@ -94,12 +94,12 @@ In Terminal / Command Prompt type the following
 
 4. YAY! You successfully made your commits and uploaded your first piece python code to GitHub as a git master!
 
-## Bonus Points - Watch Intro to Python from Harvard’s CS50 class and follow along.
+## 300 Bonus Points - Watch Intro to Python from Harvard’s CS50 class and follow along.
 1. Make a folder in your `PythonPractice` called `PythonCS50_2017` and follow along with the examples in that folder.
 - [CS50 2017 - Lecture 8 - Python - YouTube](https://www.youtube.com/watch?v=n_8zxTH7SvA)
 - [CS50 2017 - Lecture 9 - Python, continued - YouTube](https://www.youtube.com/watch?v=icOod04jYww)
 
-## Share with me links to your GitHub Repositories 
+## Here's how to share with me links to your GitHub Repositories for points on the Leaderboard.
 
 1. Read about [The anatomy of a perfect pull request – Hugo Dias – Medium](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 
