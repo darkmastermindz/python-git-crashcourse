@@ -9,7 +9,7 @@
 4. Here is more info on Git in video form that goes through a simple tutorial and the process of how to use it:
 https://www.youtube.com/watch?v=MJUJ4wbFm_A
 
-## [100 Pts x Labs Multiplier (5300 Possible)] - Getting to Know Source Control for Yourself (Gitimmersion Lab & Github)
+## [100 Pts x Labs Completed Multiplier] - Getting to Know Source Control for Yourself (Gitimmersion Lab & Github)
 1. Make a http://github.com/ account if you don’t already have one, this becomes your portfolio basically. 
 2. Make a repo called `gitimmersion` and clone it and follow the instructions for the labs for git.
 3. Try the `gitimmersion labs`  in that folder *(It uses the Ruby language, but git can be used with any piece of code or text).*
