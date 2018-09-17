@@ -85,7 +85,7 @@ for x in range(100):
 	t.left(90)
 ```
 
-Aside – *this* `for loop` *is an for each loop and reads as "for each x times counting from the range of 0 to 99" move turtle t forward by x then turn the turtle left 90 degrees.*
+Aside – *this* `for loop` *is an for each loop and reads as "for each x times counting from the range of 0 to 99" move turtle t forward by x then turn the turtle left 90 degrees."*
 
 In Terminal / Command Prompt type the following
 - `git add SquareSpiral.py`
