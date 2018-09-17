@@ -94,12 +94,12 @@ In Terminal / Command Prompt type the following
 
 4. YAY! You successfully made your commits and uploaded your first piece python code to GitHub as a git master!
 
-## [300 Bonus Points] - Watch Intro to Python from Harvard’s CS50 class and follow along.
+## [400 Bonus Points] - Watch Intro to Python from Harvard’s CS50 class and follow along.
 1. Make a folder in your `PythonPractice` called `PythonCS50_2017` and follow along with the examples in that folder.
 - [CS50 2017 - Lecture 8 - Python - YouTube](https://www.youtube.com/watch?v=n_8zxTH7SvA)
 - [CS50 2017 - Lecture 9 - Python, continued - YouTube](https://www.youtube.com/watch?v=icOod04jYww)
 
-## [Getting Credit] - Here's how to share with me links to your GitHub Repositories for points on the Leaderboard.
+## [Getting Credit - 6000 Pts Possible] - Here's how to share with me links to your GitHub Repositories for points on the Leaderboard.
 
 1. Read about [The anatomy of a perfect pull request – Hugo Dias – Medium](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 
