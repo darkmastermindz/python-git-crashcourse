@@ -1,4 +1,4 @@
-# python-git-course
+# python-git-crashcourse
 My Python crash course guides with git for people of all ages who really want to be awesome at programming with Python.
 
 ## Part 1 - Intro to Python w/ Turtles & Source Control.
