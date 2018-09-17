@@ -77,6 +77,17 @@ If you are using `Jupyter Notebook`, you can do bash commands like git by execut
 - https://www.youtube.com/watch?v=n_8zxTH7SvA
 - https://www.youtube.com/watch?v=icOod04jYww
 
-## Share with me a links to your GitHub Repositories:
-- https://github.com/username/gitimmersion
-- https://github.com/username/PythonPractice
+## Share with me links to your GitHub Repositories 
+
+1. Read about [The anatomy of a perfect pull request – Hugo Dias – Medium](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+
+2. Fork this repository and sending a pull request after adding your name and url to your repos when you change this file.
+
+## I have completed my gitimmersion:
+- Hansel Wei [gitimmersion](https://github.com/darkmastermindz/gitimmersion)
+- Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
+- Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
+## I have completed my 
+- Hansel Wei [Python Practice](https://github.com/darkmastermindz/PythonPractice)
+- Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
+- Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
