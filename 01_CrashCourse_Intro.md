@@ -108,13 +108,13 @@ In Terminal / Command Prompt type the following
 3. Set it up for the next person.
 
 ## Leaderboard - I have completed my gitimmersion:
-- 00. Hansel Wei [gitimmersion](https://github.com/darkmastermindz/gitimmersion)
-- 01. Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
+- 0. Hansel Wei [gitimmersion](https://github.com/darkmastermindz/gitimmersion)
+- 1. Your Name [gitimmersion](https://github.com/{yourusername}/gitimmersion)
 
 ## Leaderboard - I have started my PythonPractice:
-- 00. Hansel Wei [Python Practice](https://github.com/darkmastermindz/PythonPractice)
-- 01. Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
+- 0. Hansel Wei [Python Practice](https://github.com/darkmastermindz/PythonPractice)
+- 1. Your Name [Python Practice](https://github.com/{yourusername}/PythonPractice)
 
 ## Leaderboard - I have followed along and completed my PythonCS50_2017
-- 00. Hansel Wei [PythonCS50_2017](https://github.com/darkmastermindz/PythonPractice/PythonCS50_2017)
-- 01. Your Name [PythonCS50_2017](https://github.com/{yourusername}/PythonPractice/PythonCS50_2017)
+- 0. Hansel Wei [PythonCS50_2017](https://github.com/darkmastermindz/PythonPractice/PythonCS50_2017)
+- 1. Your Name [PythonCS50_2017](https://github.com/{yourusername}/PythonPractice/PythonCS50_2017)
