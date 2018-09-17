@@ -3,8 +3,14 @@ My Python crash course with git for people.
 
 # Table of Contents
 
-## 01 Intro
-- [01_CrashCourse_Intro.md](https://github.com/darkmastermindz/python-git-course/blob/master/01_CrashCourse_Intro.md) - Intro to Source Control, Python Turtles, & Pull Requests.
+## Intro to Source Control, Python Turtles, & Pull Requests.
+- [01_CrashCourse_Intro.md](https://github.com/darkmastermindz/python-git-course/blob/master/01_CrashCourse_Intro.md)
+
+## Pygame Game Development
+
+## Machine Learning
+
+## Cybersecurity Scripts
 
 ## Leaderboards
 - [00_PythonPractice](https://github.com/darkmastermindz/python-git-course/blob/master/00_Leaderboard-PythonPractice.md)
