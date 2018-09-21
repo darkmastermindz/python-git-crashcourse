@@ -4,7 +4,7 @@
 
 2. Github is like Google Drive but for code. It’s a service that stores `repositories`  or `repo` for short which is basically a “home” folder for a project.  The home folder for any project is also called the `root directory`. 
 
-3. Companies like Google, Microsoft, IBM, etc. use GitHub and any publicly available project that you can contribute to is called an `Open Source Project`. *(don't push school assignments here publically because it's public and that can be counted as plagiarism, but you can still use git for yourself without pushing to the remotely to GitHub)*. 
+3. Companies like Google, Microsoft, IBM, etc. use GitHub and any publicly available project that you can contribute to is called an `Open Source Project`. *(don't push school assignments here because it's public and that can be counted as plagiarism, but you can still use git for yourself without pushing to the remotely to GitHub. You can create private repos for free if you get the [Github Student Pack](https://education.github.com/pack) as long as you have an ID, Email, and/or School Schedule to prove that you are a student, it should be available to all students K-12 and beyond)*. 
 
 4. Here is more info on Git in video form that goes through a simple tutorial and the process of how to use it:
 https://www.youtube.com/watch?v=MJUJ4wbFm_A
