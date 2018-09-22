@@ -10,7 +10,7 @@
 https://www.youtube.com/watch?v=MJUJ4wbFm_A
 
 ## [100 Pts x Labs Completed Multiplier] - Getting to Know Source Control for Yourself (Gitimmersion Lab & Github)
-1. Make a http://github.com/ account if you don’t already have one, this becomes your portfolio basically. 
+1. Make a http://github.com/ account if you don’t already have one; this basically becomes your portfolio. 
 2. Make a repo called `gitimmersion` and clone it and follow the instructions for the labs for git.
 3. Try the `gitimmersion labs`  in that folder *(It uses the Ruby language, but git can be used with any piece of code or text).*
 4. Link: http://gitimmersion.com/index.html *(You will need to setup git by downloading and installing it if you are on Windows. Otherwise, git should be already installed)*
