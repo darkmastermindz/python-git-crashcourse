@@ -8,7 +8,7 @@ My Python crash course guides with git for people of all ages who really want to
 -
 
 ## Part 2 - Intro to Game Development w/ Pygame
--
+- [02 PyGame_Racing.md](https://github.com/darkmastermindz/python-git-course/blob/master/02_PyGame_Racing.md)
 -
 -
 
