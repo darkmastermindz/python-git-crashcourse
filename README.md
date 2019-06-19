@@ -1,5 +1,9 @@
 # python-git-crashcourse
-My Python crash course guides with git for people of all ages who really want to be awesome at programming with Python.
+A Open Source Python crash course guides with git for people of all ages who really want to be awesome at programming with Python.
+
+Goals:
+- Learn how to use git and gitflow
+- Learning how to properly contribute / make pull requests
 
 ## Part 1 - Intro to Python w/ Turtles & Source Control.
 - [01_CrashCourse_Intro.md](https://github.com/darkmastermindz/python-git-course/blob/master/01_CrashCourse_Intro.md) - Intro to Source Control, Python w/ Turtles, & Pull Requests.
@@ -24,7 +28,7 @@ My Python crash course guides with git for people of all ages who really want to
 - Blue Team
 - Red Team
 
-## Part 5 - Web Development (Backend)
+## Part 5 - DevOps
 
 
 ## Part 6 - IoT and Networking
@@ -36,7 +40,7 @@ My Python crash course guides with git for people of all ages who really want to
 ## Part 8 - Cloud Computing
 
 
-## Part 9 - 
+## Part 9 - DevOps
 
 
 ## Appendix
