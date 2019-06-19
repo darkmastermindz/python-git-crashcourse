@@ -13,14 +13,35 @@ My Python crash course guides with git for people of all ages who really want to
 -
 
 ## Part 3 - Intro to Machine Learning
--
--
--
+- Sklean
+- Tensorflow
+- Keras
+- Exporting Model
 
 ## Part 4 - Ethical Hacking & Cybersecurity
--
--
--
+- Regex
+- Web Scraping
+- Blue Team
+- Red Team
+
+## Part 5 - Web Development (Backend)
+
+
+## Part 6 - IoT and Networking
+
+
+## Part 7 - Parallel / Cluster Computing
+
+
+## Part 8 - Cloud Computing
+
+
+## Part 9 - 
+
+
+## Appendix
+- Exploring Encapsulation
+
 
 # Leaderboards
 - [00_PythonPractice](https://github.com/darkmastermindz/python-git-course/blob/master/00_Leaderboard-PythonPractice.md)
